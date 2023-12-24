@@ -5,7 +5,7 @@
 ### Cloning the repository
 
 ```shell
-git clone [https://github.com/AntonioErdeljac/next13-messenger.git](https://github.com/bintangnugrahaa/chat-app.git)
+git clone https://github.com/bintangnugrahaa/chat-app.git
 ```
 
 ### Install packages
