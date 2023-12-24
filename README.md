@@ -5,13 +5,13 @@
 ### Cloning the repository
 
 ```shell
-git clone https://github.com/AntonioErdeljac/next13-messenger.git
+git clone [https://github.com/AntonioErdeljac/next13-messenger.git](https://github.com/bintangnugrahaa/chat-app.git)
 ```
 
 ### Install packages
 
 ```shell
-npm i
+npm install
 ```
 
 ### Setup .env file
@@ -46,11 +46,3 @@ npx prisma db push
 ```shell
 npm run dev
 ```
-
-## Available commands
-
-Running commands with npm `npm run [command]`
-
-| command         | description                              |
-| :-------------- | :--------------------------------------- |
-| `dev`           | Starts a development instance of the app |
